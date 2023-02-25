@@ -4,7 +4,7 @@
 // evening = {16pm or 6} - {23pm or 11pm}
 
 let check = 24; // check time
-let check_Morning__Afternoon_And_Evening = "pm"; // compare when it morning, afternon and evening
+let check_Morning__Afternoon_And_Evening = "pm"; // compare when it morning, afternon and evening {comparism}
 
 if (
   check <= 12 &&
